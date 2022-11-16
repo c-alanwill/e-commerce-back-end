@@ -88,7 +88,7 @@ Included is a package.json file with the required dependencies, as well as gitig
 
 The code for this project can be found on GitHub at: https://github.com/c-alanwill/e-commerce-back-end
 
-A link to a video that shows a walkthrough demonstrating how this readme works is available at: https://drive.google.com/file/d/1LbMaf-oCZAyz0RuBnghwuU8FAc5D0NhD/view
+A link to a video that shows a walkthrough demonstrating how this readme works is available at: https://drive.google.com/file/d/1ZEQMZJurb9rCPUQbfMvsYG-Qf5GrCIRi/view
 
 
 ## Usage
